@@ -3,12 +3,59 @@
     <title>Portfolio</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2025-12-09T20:13:28+00:00</updated>
+    <updated>2025-12-09T21:20:19+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
     <id>https://koubakr.github.io</id>
 
+    <entry>
+        <title>Micromouse - Group project</title>
+        <author>
+            <name>Krystof Kouba</name>
+        </author>
+        <link href="https://koubakr.github.io/micromouse-group-project/"/>
+        <id>https://koubakr.github.io/micromouse-group-project/</id>
+            <category term="Projects 2024"/>
+            <category term="Projects"/>
+
+        <updated>2025-12-09T21:18:43+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    For this university module project, our group designed and constructed a fully autonomous Micromouse robot. The objective was to engineer a robot capable of navigation, obstacle avoidance, and competitive combat interaction, using a Raspberry Pi Pico, two DC brushless motor with motion feedback and a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    For this university module project, our group designed and constructed a fully autonomous Micromouse robot. The objective was to engineer a robot capable of navigation, obstacle avoidance, and competitive combat interaction, using a Raspberry Pi Pico, two DC brushless motor with motion feedback and a set of bumper switches and a custom PCB for obstacle avoidance.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://koubakr.github.io/media/posts/7/Picture1-2.jpg" height="394" width="480" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://koubakr.github.io/media/posts/7/responsive/Picture1-2-xs.jpg 640w ,https://koubakr.github.io/media/posts/7/responsive/Picture1-2-sm.jpg 768w ,https://koubakr.github.io/media/posts/7/responsive/Picture1-2-md.jpg 1024w ,https://koubakr.github.io/media/posts/7/responsive/Picture1-2-lg.jpg 1366w ,https://koubakr.github.io/media/posts/7/responsive/Picture1-2-xl.jpg 1600w ,https://koubakr.github.io/media/posts/7/responsive/Picture1-2-2xl.jpg 1920w">
+      <figcaption>Our Micromouse robot</figcaption>
+    </figure>
+
+  <p>
+    The Micromouse robot had the following features:
+  </p>
+
+  <ul>
+    <li>Sensor Array: We implemented a system of 4 Infrared (IR) sensors. This array allowed for accurate wall detection to sense objects to attack or avoid, depending on the mode. Four touch bar buttons where also mounted on the front and back, to detect physical contact of the robot.</li><li>Mode Selection System: We integrated a potentiometer to switch between five operating modes: Testing, Combat, Line Following, Calibration, and Obstacle Avoidance. This design choice saved space on the PCB and allowed for fast mode switching on the fly.</li><li>Audio: Using four multi-function buttons, we could control volume and audio tracks to receive real-time feedback from the actions the robot is taking.</li><li>OLED Display: We incorporated an on-board screen to provide immediate visual feedback and mode selection.</li><li>Combat : A key feature was the "Combat Push Counter." We utilized a front touch bar to detect physical collisions with other robots. Upon collision, the system would register the hit and update the count on the LCD screen, allowing us to judge performance during combat trials.</li>
+  </ul>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://koubakr.github.io/media/posts/7/Picture2.jpg" height="179" width="326" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://koubakr.github.io/media/posts/7/responsive/Picture2-xs.jpg 640w ,https://koubakr.github.io/media/posts/7/responsive/Picture2-sm.jpg 768w ,https://koubakr.github.io/media/posts/7/responsive/Picture2-md.jpg 1024w ,https://koubakr.github.io/media/posts/7/responsive/Picture2-lg.jpg 1366w ,https://koubakr.github.io/media/posts/7/responsive/Picture2-xl.jpg 1600w ,https://koubakr.github.io/media/posts/7/responsive/Picture2-2xl.jpg 1920w">
+      <figcaption>IR detection PCB</figcaption>
+    </figure>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Formula Student 2024/25</title>
         <author>
@@ -16,6 +63,8 @@
         </author>
         <link href="https://koubakr.github.io/formula-student-202425/"/>
         <id>https://koubakr.github.io/formula-student-202425/</id>
+            <category term="Projects 2024"/>
+            <category term="Projects"/>
 
         <updated>2025-12-09T19:37:50+00:00</updated>
             <summary type="html">
