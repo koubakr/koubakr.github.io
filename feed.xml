@@ -3,7 +3,7 @@
     <title>Poltfolio</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2025-12-09T14:02:09+00:00</updated>
+    <updated>2025-12-09T14:04:40+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://koubakr.github.io/intelligent-building-installation/"/>
         <id>https://koubakr.github.io/intelligent-building-installation/</id>
+            <category term="Projects2024"/>
 
         <updated>2025-12-09T01:02:06+00:00</updated>
             <summary type="html">
