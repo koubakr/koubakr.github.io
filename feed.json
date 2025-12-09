@@ -5,6 +5,7 @@
     "home_page_url": "https://koubakr.github.io",
     "feed_url": "https://koubakr.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://koubakr.github.io/media/website/20230807_171452~2-2.png",
     "author": {
         "name": "Krystof Kouba"
     },
@@ -23,7 +24,7 @@
                    "Projects"
             ],
             "date_published": "2025-12-09T21:18:43+00:00",
-            "date_modified": "2025-12-09T21:20:19+00:00"
+            "date_modified": "2025-12-09T22:51:40+00:00"
         },
         {
             "id": "https://koubakr.github.io/formula-student-202425/",
@@ -39,7 +40,7 @@
                    "Projects"
             ],
             "date_published": "2025-12-09T19:37:50+00:00",
-            "date_modified": "2025-12-09T20:34:10+00:00"
+            "date_modified": "2025-12-09T22:51:36+00:00"
         },
         {
             "id": "https://koubakr.github.io/intelligent-building-installation/",
@@ -55,7 +56,7 @@
                    "Projects"
             ],
             "date_published": "2025-12-09T01:02:06+00:00",
-            "date_modified": "2025-12-09T20:00:46+00:00"
+            "date_modified": "2025-12-09T22:51:30+00:00"
         }
     ]
 }
