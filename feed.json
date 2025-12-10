@@ -20,9 +20,29 @@
                 "name": "Krystof Kouba"
             },
             "tags": [
+                   "Projects 2026",
+                   "Projects 2025",
+                   "Projects"
             ],
             "date_published": "2025-12-09T21:51:09+00:00",
-            "date_modified": "2025-12-10T20:56:41+00:00"
+            "date_modified": "2025-12-10T21:01:47+00:00"
+        },
+        {
+            "id": "https://koubakr.github.io/formula-student-2026/",
+            "url": "https://koubakr.github.io/formula-student-2026/",
+            "title": "Formula Student 2026",
+            "summary": "Project is still ongoing. As the Head of Electronic Systems for the Swansea University Race Engineering (SURE) team for the 2026 Formula Student UK competition, I am responsible for the design and implementation of the vehicle's car electronics systems. My primary focus this season is&hellip;",
+            "content_html": "\n    <h6 id=\"project-is-still-ongoing\" class=\"align-center\">\n      Project is still ongoing.\n    </h6>\n\n  <p>\n    As the Head of Electronic Systems for the Swansea University Race Engineering (SURE) team for the 2026 Formula Student UK competition, I am responsible for the design and implementation of the vehicle's car electronics systems. My primary focus this season is integrating a new ECU as well as design and manufacturing of a new loom. We are also focusing on more sensors on the car to collect more data while testing, as well as refining our drive by wire and flat shifting system. We also aim to make a custom fuse box and implement a new dashboard and steering wheel system.\n  </p>\n\n    <figure class=\"post__image post__image--wide\">\n      <img loading=\"lazy\" src=\"https://koubakr.github.io/media/posts/10/IMG-20251125-WA0031.jpg\" height=\"937\" width=\"1734\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://koubakr.github.io/media/posts/10/responsive/IMG-20251125-WA0031-xs.jpg 640w ,https://koubakr.github.io/media/posts/10/responsive/IMG-20251125-WA0031-sm.jpg 768w ,https://koubakr.github.io/media/posts/10/responsive/IMG-20251125-WA0031-md.jpg 1024w ,https://koubakr.github.io/media/posts/10/responsive/IMG-20251125-WA0031-lg.jpg 1366w ,https://koubakr.github.io/media/posts/10/responsive/IMG-20251125-WA0031-xl.jpg 1600w ,https://koubakr.github.io/media/posts/10/responsive/IMG-20251125-WA0031-2xl.jpg 1920w\">\n      \n    </figure>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Krystof Kouba"
+            },
+            "tags": [
+                   "Projects 2026",
+                   "Projects 2025",
+                   "Projects"
+            ],
+            "date_published": "2025-12-09T21:50:55+00:00",
+            "date_modified": "2025-12-10T21:21:55+00:00"
         },
         {
             "id": "https://koubakr.github.io/micromouse-group-project/",
@@ -50,11 +70,12 @@
                 "name": "Krystof Kouba"
             },
             "tags": [
+                   "Projects 2025",
                    "Projects 2024",
                    "Projects"
             ],
             "date_published": "2025-12-09T19:37:50+00:00",
-            "date_modified": "2025-12-10T20:56:59+00:00"
+            "date_modified": "2025-12-10T21:01:11+00:00"
         },
         {
             "id": "https://koubakr.github.io/intelligent-building-installation/",
