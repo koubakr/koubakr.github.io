@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://koubakr.github.io/acoustic-levitation/",
+            "url": "https://koubakr.github.io/acoustic-levitation/",
+            "title": "Acoustic Levitation",
+            "summary": "Project is still ongoing. For my undergraduate dissertation, I engineered an acoustic levitation system based on the principles of ultrasonic standing waves. The core objective was to generate stable pressure nodes—pockets of low pressure created by constructive and destructive interference—capable of trapping and levitating light&hellip;",
+            "content_html": "\n    <h6 id=\"project-is-still-ongoing\" class=\"align-center\">\n      Project is still ongoing.\n    </h6>\n\n  <p>\n    For my undergraduate dissertation, I engineered an acoustic levitation system based on the principles of ultrasonic standing waves. The core objective was to generate stable pressure nodes—pockets of low pressure created by constructive and destructive interference—capable of trapping and levitating light objects in mid-air.\n  </p>\n\n  <p>\n    Unlike simple static levitators, this system employs a phased-array approach. By controlling the phase delay of individual emitters, the system creates a focused \"beam\" of sound.\n  </p>\n\n  <ul>\n    <li>Custom transducer array using Murata MA40S4S (40kHz) speakers driven by MIC4127 MOSFET drivers.</li><li>STM32 G474 microcontroller implementing real-time phase generation.</li><li>SN74HC59N shift registers to allowing precise, multi-channel phase-shifting of the 40kHz signals to steer the acoustic focus point.</li>\n  </ul>\n<hr class=\"separator separator--dots\" />\n\n  <p>\n    Experimental version of the PCB circuit:\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://koubakr.github.io/media/posts/11/aaa-1.png\" height=\"1654\" width=\"2339\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://koubakr.github.io/media/posts/11/responsive/aaa-1-xs.png 640w ,https://koubakr.github.io/media/posts/11/responsive/aaa-1-sm.png 768w ,https://koubakr.github.io/media/posts/11/responsive/aaa-1-md.png 1024w ,https://koubakr.github.io/media/posts/11/responsive/aaa-1-lg.png 1366w ,https://koubakr.github.io/media/posts/11/responsive/aaa-1-xl.png 1600w ,https://koubakr.github.io/media/posts/11/responsive/aaa-1-2xl.png 1920w\">\n      \n    </figure>",
+            "author": {
+                "name": "Krystof Kouba"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-09T21:51:09+00:00",
+            "date_modified": "2025-12-10T20:56:41+00:00"
+        },
+        {
             "id": "https://koubakr.github.io/micromouse-group-project/",
             "url": "https://koubakr.github.io/micromouse-group-project/",
             "title": "Micromouse - Group project",
@@ -24,7 +38,7 @@
                    "Projects"
             ],
             "date_published": "2025-12-09T21:18:43+00:00",
-            "date_modified": "2025-12-09T22:51:40+00:00"
+            "date_modified": "2025-12-10T20:56:54+00:00"
         },
         {
             "id": "https://koubakr.github.io/formula-student-202425/",
@@ -40,7 +54,7 @@
                    "Projects"
             ],
             "date_published": "2025-12-09T19:37:50+00:00",
-            "date_modified": "2025-12-09T23:18:12+00:00"
+            "date_modified": "2025-12-10T20:56:59+00:00"
         },
         {
             "id": "https://koubakr.github.io/intelligent-building-installation/",

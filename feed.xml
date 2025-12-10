@@ -3,12 +3,57 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2025-12-09T23:18:12+00:00</updated>
+    <updated>2025-12-10T20:56:59+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
     <id>https://koubakr.github.io</id>
 
+    <entry>
+        <title>Acoustic Levitation</title>
+        <author>
+            <name>Krystof Kouba</name>
+        </author>
+        <link href="https://koubakr.github.io/acoustic-levitation/"/>
+        <id>https://koubakr.github.io/acoustic-levitation/</id>
+
+        <updated>2025-12-09T21:51:09+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Project is still ongoing. For my undergraduate dissertation, I engineered an acoustic levitation system based on the principles of ultrasonic standing waves. The core objective was to generate stable pressure nodes—pockets of low pressure created by constructive and destructive interference—capable of trapping and levitating light&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h6 id="project-is-still-ongoing" class="align-center">
+      Project is still ongoing.
+    </h6>
+
+  <p>
+    For my undergraduate dissertation, I engineered an acoustic levitation system based on the principles of ultrasonic standing waves. The core objective was to generate stable pressure nodes—pockets of low pressure created by constructive and destructive interference—capable of trapping and levitating light objects in mid-air.
+  </p>
+
+  <p>
+    Unlike simple static levitators, this system employs a phased-array approach. By controlling the phase delay of individual emitters, the system creates a focused "beam" of sound.
+  </p>
+
+  <ul>
+    <li>Custom transducer array using Murata MA40S4S (40kHz) speakers driven by MIC4127 MOSFET drivers.</li><li>STM32 G474 microcontroller implementing real-time phase generation.</li><li>SN74HC59N shift registers to allowing precise, multi-channel phase-shifting of the 40kHz signals to steer the acoustic focus point.</li>
+  </ul>
+<hr class="separator separator--dots" />
+
+  <p>
+    Experimental version of the PCB circuit:
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://koubakr.github.io/media/posts/11/aaa-1.png" height="1654" width="2339" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://koubakr.github.io/media/posts/11/responsive/aaa-1-xs.png 640w ,https://koubakr.github.io/media/posts/11/responsive/aaa-1-sm.png 768w ,https://koubakr.github.io/media/posts/11/responsive/aaa-1-md.png 1024w ,https://koubakr.github.io/media/posts/11/responsive/aaa-1-lg.png 1366w ,https://koubakr.github.io/media/posts/11/responsive/aaa-1-xl.png 1600w ,https://koubakr.github.io/media/posts/11/responsive/aaa-1-2xl.png 1920w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Micromouse - Group project</title>
         <author>
