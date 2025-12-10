@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2025-12-10T21:21:55+00:00</updated>
+    <updated>2025-12-10T21:41:11+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -82,7 +82,7 @@
     </h6>
 
   <p>
-    As the Head of Electronic Systems for the Swansea University Race Engineering (SURE) team for the 2026 Formula Student UK competition, I am responsible for the design and implementation of the vehicle's car electronics systems. My primary focus this season is integrating a new ECU as well as design and manufacturing of a new loom. We are also focusing on more sensors on the car to collect more data while testing, as well as refining our drive by wire and flat shifting system. We also aim to make a custom fuse box and implement a new dashboard and steering wheel system.
+    As the Head of Electronic Systems for the Swansea University Race Engineering (SURE) team for the 2026 Formula Student UK competition, I am responsible for the design and implementation of the vehicle's car electronics systems. My primary focus this season is integrating a new ECU as well as design and manufacturing of a new wire harness. We are also focusing on more sensors on the car to collect more data while testing, as well as refining our drive by wire and flat shifting system. We also aim to make a custom fuse box and implement a new dashboard and steering wheel system.
   </p>
 
     <figure class="post__image post__image--wide">
@@ -90,9 +90,62 @@
       
     </figure>
 
+    <h6 id="ecu-and-wire-harness">
+      ECU and wire harness
+    </h6>
+
+  <p>
+    Using our new ECU (DTA Fast T8+), we transferred the sensors from last year and designed the harness using RapidHarness software. (First version design pictured bellow)
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://koubakr.github.io/media/posts/10/EL_FS25_B_V0.2-01-2.png" height="2955" width="6623" alt="First version harness design"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://koubakr.github.io/media/posts/10/responsive/EL_FS25_B_V0.2-01-2-xs.png 640w ,https://koubakr.github.io/media/posts/10/responsive/EL_FS25_B_V0.2-01-2-sm.png 768w ,https://koubakr.github.io/media/posts/10/responsive/EL_FS25_B_V0.2-01-2-md.png 1024w ,https://koubakr.github.io/media/posts/10/responsive/EL_FS25_B_V0.2-01-2-lg.png 1366w ,https://koubakr.github.io/media/posts/10/responsive/EL_FS25_B_V0.2-01-2-xl.png 1600w ,https://koubakr.github.io/media/posts/10/responsive/EL_FS25_B_V0.2-01-2-2xl.png 1920w">
+      
+    </figure>
+
+    <h5 id="fuse-box">
+      Fuse box
+    </h5>
+
   <p>
     
   </p>
+
+    <h5 id="electronic-shifting">
+      Electronic shifting
+    </h5>
+
+  <p>
+    
+  </p>
+
+    <h5 id="dashboard">
+      Dashboard
+    </h5>
+
+  <p>
+    
+  </p>
+
+    <h5 id="gallery">
+      Gallery
+    </h5>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/10/gallery/20251125_135910.jpg" data-size="2464x1848">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/20251125_135910-thumbnail.jpg" height="540" width="720" alt="" >
+      </a>
+      <figcaption>First test session setup</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/10/gallery/IMG-20251125-WA0100.jpg" data-size="1500x1125">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/IMG-20251125-WA0100-thumbnail.jpg" height="540" width="720" alt="" >
+      </a>
+      <figcaption>First test session group photo</figcaption>
+    </figure>
+    </div>
+  </div>
             ]]>
         </content>
     </entry>
