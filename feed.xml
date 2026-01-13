@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-01-13T14:54:21+00:00</updated>
+    <updated>2026-01-13T16:24:33+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -115,17 +115,32 @@
     </h6>
 
   <p>
-    We upgraded the Electronic Control Unit to a DTA Fast T8+ ECU while retaining our proven sensors. To ensure easy manufacturing and documentation, the wiring harness was designed using RapidHarness (V1 design shown below). The professional documentation provided by the software streamlined the manufacturing and installation process, resulting in a flawless engine startup and successful track validation.
+    We upgraded the Electronic Control Unit to a DTA Fast T8+ ECU while retaining our proven sensors. To ensure easy manufacturing and documentation, the wiring harness was designed using RapidHarness. The professional documentation provided by the software streamlined the manufacturing and installation process, resulting in a flawless engine start-up and successful track validation.
+  </p>
+
+  <p>
+    We are executing a two-version wiring strategy. Version 1 (pictured below) was optimized for flexibility, enabling us to easily modify connections as we integrated new systems during the first semester. The upcoming Version 2 is the 'production' standard, made for maximum durability and reliability to withstand the wear of multiple racing seasons.
   </p>
 
   <p>
     To optimize engine performance, we incorporated MegaLogViewer for post-run analysis. Using real-world data logs, we fine-tuned the ignition and fuel tables to match track conditions, known as road-dyno. This calibration eliminated engine roughness, increased power delivery, and improved fuel efficiency, resulting in a highly reliable powertrain.
   </p>
 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://koubakr.github.io/media/posts/10/EL_FS25_B_V0.2-01-2.png" height="2955" width="6623" alt="First version harness design"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://koubakr.github.io/media/posts/10/responsive/EL_FS25_B_V0.2-01-2-xs.png 640w ,https://koubakr.github.io/media/posts/10/responsive/EL_FS25_B_V0.2-01-2-sm.png 768w ,https://koubakr.github.io/media/posts/10/responsive/EL_FS25_B_V0.2-01-2-md.png 1024w ,https://koubakr.github.io/media/posts/10/responsive/EL_FS25_B_V0.2-01-2-lg.png 1366w ,https://koubakr.github.io/media/posts/10/responsive/EL_FS25_B_V0.2-01-2-xl.png 1600w ,https://koubakr.github.io/media/posts/10/responsive/EL_FS25_B_V0.2-01-2-2xl.png 1920w">
-      
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/10/gallery/20251104_192331.jpg" data-size="1848x2920">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/20251104_192331-thumbnail.jpg" height="1138" width="720" alt="" >
+      </a>
+      <figcaption>installation of the rough V1 harness</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/10/gallery/EL_FS25_B_V0.2-01.png" data-size="6623x2955">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/EL_FS25_B_V0.2-01-thumbnail.png" height="321" width="720" alt="" >
+      </a>
+      <figcaption>Version 1 harness design</figcaption>
     </figure>
+    </div>
+  </div>
 
     <h5 id="fuse-and-relay-box">
       Fuse and relay box
@@ -142,6 +157,11 @@
         <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/Screenshot-2026-01-11-225725-thumbnail.png" height="334" width="720" alt="" >
       </a>
       <figcaption>CAD view of the fuse and relay box PCB with spade connectors for relays and fuses, XT60 for power input and DT connectors for IO</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/10/gallery/Screenshot-2026-01-13-153828.png" data-size="819x483">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/Screenshot-2026-01-13-153828-thumbnail.png" height="425" width="720" alt="" >
+      </a>
+      <figcaption>fuse and relay box PCB schematic</figcaption>
     </figure>
     </div>
   </div>
@@ -201,6 +221,16 @@
     </figure>
     </div>
   </div>
+<pre class="line-numbers  language-html"><code>&lt;iframe 
+    src="https://scramble.cloud/#vd!aM-QUq79rfuB-krrF1DqTyWXHKXnvlsoyI5uWkzOUJs!tJDhoiKKbj_KM9mHlpzX_BZcjtUndSsQ_NrkeFotRgY" 
+    width="100%" 
+    height="600" 
+    style="border:none;" 
+    allow="autoplay; fullscreen" 
+    title="Scramble Cloud Video"&gt;
+    &lt;p&gt;Your browser does not support iframes. &lt;a href="https://scramble.cloud/#vd!aM-QUq79rfuB-krrF1DqTyWXHKXnvlsoyI5uWkzOUJs!tJDhoiKKbj_KM9mHlpzX_BZcjtUndSsQ_NrkeFotRgY"&gt;Click here to view the video&lt;/a&gt;.&lt;/p&gt;
+&lt;/iframe&gt;
+</code></pre>
             ]]>
         </content>
     </entry>
@@ -228,7 +258,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://koubakr.github.io/media/posts/7/Picture1-2.jpg" height="394" width="480" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://koubakr.github.io/media/posts/7/responsive/Picture1-2-xs.jpg 640w ,https://koubakr.github.io/media/posts/7/responsive/Picture1-2-sm.jpg 768w ,https://koubakr.github.io/media/posts/7/responsive/Picture1-2-md.jpg 1024w ,https://koubakr.github.io/media/posts/7/responsive/Picture1-2-lg.jpg 1366w ,https://koubakr.github.io/media/posts/7/responsive/Picture1-2-xl.jpg 1600w ,https://koubakr.github.io/media/posts/7/responsive/Picture1-2-2xl.jpg 1920w">
+      <img loading="lazy" src="https://koubakr.github.io/media/posts/7/20250406_182453-2.jpg" height="1585" width="1583" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-xs.jpg 640w ,https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-sm.jpg 768w ,https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-md.jpg 1024w ,https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-lg.jpg 1366w ,https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-xl.jpg 1600w ,https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-2xl.jpg 1920w">
       <figcaption>Our Micromouse robot</figcaption>
     </figure>
 
@@ -240,10 +270,21 @@
     <li>Sensor Array: We implemented a system of 4 Infrared (IR) sensors. This array allowed for accurate wall detection to sense objects to attack or avoid, depending on the mode. Four touch bar buttons where also mounted on the front and back, to detect physical contact of the robot.</li><li>Mode Selection System: We integrated a potentiometer to switch between five operating modes: Testing, Combat, Line Following, Calibration, and Obstacle Avoidance. This design choice saved space on the PCB and allowed for fast mode switching on the fly.</li><li>Audio: Using four multi-function buttons, we could control volume and audio tracks to receive real-time feedback from the actions the robot is taking.</li><li>OLED Display: We incorporated an on-board screen to provide immediate visual feedback and mode selection.</li><li>Combat : A key feature was the "Combat Push Counter." We utilized a front touch bar to detect physical collisions with other robots. Upon collision, the system would register the hit and update the count on the LCD screen, allowing us to judge performance during combat trials.</li>
   </ul>
 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://koubakr.github.io/media/posts/7/Picture2.jpg" height="179" width="326" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://koubakr.github.io/media/posts/7/responsive/Picture2-xs.jpg 640w ,https://koubakr.github.io/media/posts/7/responsive/Picture2-sm.jpg 768w ,https://koubakr.github.io/media/posts/7/responsive/Picture2-md.jpg 1024w ,https://koubakr.github.io/media/posts/7/responsive/Picture2-lg.jpg 1366w ,https://koubakr.github.io/media/posts/7/responsive/Picture2-xl.jpg 1600w ,https://koubakr.github.io/media/posts/7/responsive/Picture2-2xl.jpg 1920w">
-      <figcaption>IR detection PCB</figcaption>
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/7/gallery/20250402_111109.jpg" data-size="1848x2570">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/7/gallery/20250402_111109-thumbnail.jpg" height="1001" width="720" alt="" >
+      </a>
+      <figcaption>Installation of our line detection sensors with a I2C IO expansion board</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/7/gallery/20250320_143823.jpg" data-size="3785x1553">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/7/gallery/20250320_143823-thumbnail.jpg" height="295" width="720" alt="" >
+      </a>
+      <figcaption>PCB design CAD rendering</figcaption>
     </figure>
+    </div>
+  </div>
 
   <p>
     
@@ -294,20 +335,35 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://koubakr.github.io/media/posts/6/gallery/Picture1.png" data-size="827x421">
-        <img loading="lazy" src="https://koubakr.github.io/media/posts/6/gallery/Picture1-thumbnail.png" height="367" width="720" alt="" >
+      <a href="https://koubakr.github.io/media/posts/6/gallery/BSPD_V5-1.png" data-size="2500x1500">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/6/gallery/BSPD_V5-1-thumbnail.png" height="432" width="720" alt="" >
       </a>
-      <figcaption>basic Safety Circuit diagram</figcaption>
+      <figcaption>BSPD schematic</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://koubakr.github.io/media/posts/6/gallery/pic.png" data-size="1014x783">
         <img loading="lazy" src="https://koubakr.github.io/media/posts/6/gallery/pic-thumbnail.png" height="556" width="720" alt="" >
       </a>
       <figcaption>BSPD PCB 3D render</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://koubakr.github.io/media/posts/6/gallery/BSPD_V5-1.png" data-size="2500x1500">
-        <img loading="lazy" src="https://koubakr.github.io/media/posts/6/gallery/BSPD_V5-1-thumbnail.png" height="432" width="720" alt="" >
+      <a href="https://koubakr.github.io/media/posts/6/gallery/20250529_160228.jpg" data-size="1848x1610">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/6/gallery/20250529_160228-thumbnail.jpg" height="627" width="720" alt="" >
       </a>
-      <figcaption>BSPD schematic</figcaption>
+      <figcaption>Finished BSPD</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/6/gallery/20241120_155332.jpg" data-size="4000x1848">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/6/gallery/20241120_155332-thumbnail.jpg" height="333" width="720" alt="" >
+      </a>
+      <figcaption>Basic harness layout</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/6/gallery/20241113_173328.jpg" data-size="4000x1848">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/6/gallery/20241113_173328-thumbnail.jpg" height="333" width="720" alt="" >
+      </a>
+      <figcaption>Sensor and other component selection process</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/6/gallery/Picture1.png" data-size="827x421">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/6/gallery/Picture1-thumbnail.png" height="367" width="720" alt="" >
+      </a>
+      <figcaption>basic Safety Circuit diagram</figcaption>
     </figure>
     </div>
   </div>
@@ -357,35 +413,50 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://koubakr.github.io/media/posts/3/gallery/20241220_203022-2.jpg" data-size="1386x1848">
-        <img loading="lazy" src="https://koubakr.github.io/media/posts/3/gallery/20241220_203022-2-thumbnail.jpg" height="960" width="720" alt="" >
+      <a href="https://koubakr.github.io/media/posts/3/gallery/20250823_143029.jpg" data-size="4000x1848">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/3/gallery/20250823_143029-thumbnail.jpg" height="333" width="720" alt="" >
       </a>
-      
+      <figcaption>Outdoor pool light and 1-wire temperature measurement distribution box</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://koubakr.github.io/media/posts/3/gallery/20240722_155938-2.jpg" data-size="1386x1848">
-        <img loading="lazy" src="https://koubakr.github.io/media/posts/3/gallery/20240722_155938-2-thumbnail.jpg" height="960" width="720" alt="" >
+      <a href="https://koubakr.github.io/media/posts/3/gallery/20240915_132215.jpg" data-size="4000x1848">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/3/gallery/20240915_132215-thumbnail.jpg" height="333" width="720" alt="" >
       </a>
-      
+      <figcaption>Near-finished main distribution box</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://koubakr.github.io/media/posts/3/gallery/20240911_124113-2.jpg" data-size="1848x2464">
         <img loading="lazy" src="https://koubakr.github.io/media/posts/3/gallery/20240911_124113-2-thumbnail.jpg" height="960" width="720" alt="" >
+      </a>
+      <figcaption>work-in-progress main distribution box</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/3/gallery/20250824_155314.jpg" data-size="4000x3000">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/3/gallery/20250824_155314-thumbnail.jpg" height="540" width="720" alt="" >
+      </a>
+      <figcaption>work-in-progress secondary distribution box</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/3/gallery/20250621_212240.jpg" data-size="4000x1848">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/3/gallery/20250621_212240-thumbnail.jpg" height="333" width="720" alt="" >
+      </a>
+      <figcaption>wellness under-glow, speaker, sensor and ventilation installation</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/3/gallery/20250622_094634.jpg" data-size="4000x1848">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/3/gallery/20250622_094634-thumbnail.jpg" height="333" width="720" alt="finished wellness under-glow with speaker and presence sensor" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://koubakr.github.io/media/posts/3/gallery/20241225_183411-2.jpg" data-size="1848x2464">
         <img loading="lazy" src="https://koubakr.github.io/media/posts/3/gallery/20241225_183411-2-thumbnail.jpg" height="960" width="720" alt="" >
       </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://koubakr.github.io/media/posts/3/gallery/20240910_190116-2.jpg" data-size="1848x2464">
-        <img loading="lazy" src="https://koubakr.github.io/media/posts/3/gallery/20240910_190116-2-thumbnail.jpg" height="960" width="720" alt="" >
-      </a>
-      
+      <figcaption>finished stair lighting</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://koubakr.github.io/media/posts/3/gallery/20240910_190201-2.jpg" data-size="1848x2464">
         <img loading="lazy" src="https://koubakr.github.io/media/posts/3/gallery/20240910_190201-2-thumbnail.jpg" height="960" width="720" alt="" >
       </a>
-      
+      <figcaption>finished bathroom lighting</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/3/gallery/20240722_155938-2.jpg" data-size="1386x1848">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/3/gallery/20240722_155938-2-thumbnail.jpg" height="960" width="720" alt="" >
+      </a>
+      <figcaption>finished second floor distribution box, camera system and internet modem</figcaption>
     </figure>
     </div>
   </div>
