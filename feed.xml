@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-01-11T23:00:39+00:00</updated>
+    <updated>2026-01-13T14:33:16+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -98,7 +98,11 @@
     </h6>
 
   <p>
-    As the Head of Electronic Systems for the Swansea University Race Engineering (SURE) team for the 2026 Formula Student UK competition, I am responsible for the design and implementation of the vehicle's car electronics systems. My primary focus this season is integrating a new ECU as well as design and manufacturing of a new wire harness. We are also focusing on more sensors on the car to collect more data while testing, as well as refining our drive by wire and flat shifting system. We also aim to make a custom fuse box and implement a new dashboard and steering wheel system.
+    As the Head of Electronic Systems for the Swansea University Race Engineering (SURE) team for the 2026 Formula Student UK competition, I am responsible for the design and implementation of the vehicle's car electronics systems.
+  </p>
+
+  <p>
+    My primary focus this season is integrating a new ECU as well as design and manufacturing of a new wire harness. We are also focusing on more sensors on the car to collect more data while testing, as well as refining our drive by wire and flat shifting system. We also aim to make a custom fuse box and implement a new dashboard and steering wheel system.
   </p>
 
     <figure class="post__image post__image--wide">
@@ -111,7 +115,11 @@
     </h6>
 
   <p>
-    Using our new ECU (DTA Fast T8+), we transferred the sensors from last year and designed the harness using RapidHarness software. (First version design pictured bellow) Using the documentation generated, we installed the loom onto our car and successfully ran the car with it.
+    We upgraded the Electronic Control Unit to a DTA Fast T8+ ECU while retaining our proven sensors. To ensure easy manufacturing and documentation, the wiring harness was designed using RapidHarness (V1 design shown below). The professional documentation provided by the software streamlined the manufacturing and installation process, resulting in a flawless engine startup and successful track validation.
+  </p>
+
+  <p>
+    To optimize engine performance, we incorporated MegaLogViewer for post-run analysis. Using real-world data logs, we fine-tuned the ignition and fuel tables to match track conditions, known as road-dyno. This calibration eliminated engine roughness, increased power delivery, and improved fuel efficiency, resulting in a highly reliable powertrain.
   </p>
 
     <figure class="post__image post__image--center">
@@ -124,7 +132,7 @@
     </h5>
 
   <p>
-    This year, we iterated on the fuse box design, where I designed a custom PCB to act as our relay and fuse box, with reliable connections and interchangeable standard automotive relays and fuses. The PCB is designed with high current in mind, as well as optimised for the harsh automotive environment.
+    We have upgraded the vehicle's fuse box to a custom PCB-based solution. This design prioritizes high-current handling and mechanical robustness suitable for track conditions. By utilizing standard, interchangeable automotive relays and fuses, the system ensures reliable connections while remaining easy to service and maintain.
   </p>
 
   <div  class="gallery-wrapper">
@@ -143,7 +151,11 @@
     </h5>
 
   <p>
-    ongoing
+    This BSPD utilizes discrete logic to ensure safe vehicle shutdown during simultaneous braking and acceleration. This year’s iteration upgrades the original schematic by employing SMD components and professional PCB manufacturing. This shift from prototype methods to industry-standard fabrication ensures maximum reliability for this critical safety component.
+  </p>
+
+  <p>
+    The design is still ongoing.
   </p>
 
     <h5 id="electronic-shifting">
@@ -151,7 +163,11 @@
     </h5>
 
   <p>
-    ongoing
+    We are refining the electronic shifting setup to prioritize reliability. The system utilizes a high-performance solenoid driven by ECU-controlled relays. Current testing focuses on integrating these shift parameters with the Drive-By-Wire system. This setup is key to achieving the seamless and instantaneous shifting required for optimal track performance, as well as safe usage under competition conditions.
+  </p>
+
+  <p>
+    The design is still ongoing.
   </p>
 
     <h5 id="dashboard">
@@ -159,7 +175,7 @@
     </h5>
 
   <p>
-    ongoing
+    The design is still ongoing.
   </p>
 
     <h5 id="gallery">
