@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-01-13T14:33:16+00:00</updated>
+    <updated>2026-01-13T14:54:21+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -173,6 +173,10 @@
     <h5 id="dashboard">
       Dashboard
     </h5>
+
+  <p>
+    A easy-to-understand screen behind the steering wheel showing live data about the car, using a Raspberry Pi and CAN bus.
+  </p>
 
   <p>
     The design is still ongoing.
