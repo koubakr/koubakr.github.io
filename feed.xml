@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-01-13T16:56:28+00:00</updated>
+    <updated>2026-01-13T17:14:15+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -231,14 +231,8 @@
     </figure>
     </div>
   </div>
-
-  <p class="align-center">
-    <a href="https://scramble.cloud/#vd!aM-QUq79rfuB-krrF1DqTyWXHKXnvlsoyI5uWkzOUJs!tJDhoiKKbj_KM9mHlpzX_BZcjtUndSsQ_NrkeFotRgY">Video of the car running</a>
-  </p>
-
-  <p>
-    
-  </p>
+<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/EFOIRbaJ2KQ?si=esUJV4_wh7EOFz3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div>
             ]]>
         </content>
     </entry>
