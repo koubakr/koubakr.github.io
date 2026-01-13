@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-01-13T16:29:19+00:00</updated>
+    <updated>2026-01-13T16:56:28+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -37,6 +37,17 @@
     For my undergraduate dissertation, I engineered an acoustic levitation system based on the principles of ultrasonic standing waves. The core objective was to generate stable pressure nodes—pockets of low pressure created by constructive and destructive interference—capable of trapping and levitating light objects in mid-air.
   </p>
 
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/11/gallery/20251021_145203.jpg" data-size="3116x1695">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/11/gallery/20251021_145203-thumbnail.jpg" height="391" width="720" alt="" >
+      </a>
+      <figcaption>First simple acoustic levitation - proof of concept - without any beamforming implemented</figcaption>
+    </figure>
+    </div>
+  </div>
+
   <p>
     Unlike simple static levitators, this system employs a phased-array approach. By controlling the phase delay of individual emitters, the system creates a focused "beam" of sound.
   </p>
@@ -44,10 +55,9 @@
   <ul>
     <li>Custom transducer array using Murata MA40S4S (40kHz) speakers driven by MIC4127 MOSFET drivers.</li><li>STM32 G474 microcontroller implementing real-time phase generation.</li><li>SN74HC59N shift registers to allowing precise, multi-channel phase-shifting of the 40kHz signals to steer the acoustic focus point.</li>
   </ul>
-<hr class="separator separator--dots" />
 
   <p>
-    PCB iterations:
+    PCB Iterations:
   </p>
 
   <div  class="gallery-wrapper">
