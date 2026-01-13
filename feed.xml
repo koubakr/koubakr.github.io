@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-01-13T16:24:33+00:00</updated>
+    <updated>2026-01-13T16:29:19+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -221,16 +221,14 @@
     </figure>
     </div>
   </div>
-<pre class="line-numbers  language-html"><code>&lt;iframe 
-    src="https://scramble.cloud/#vd!aM-QUq79rfuB-krrF1DqTyWXHKXnvlsoyI5uWkzOUJs!tJDhoiKKbj_KM9mHlpzX_BZcjtUndSsQ_NrkeFotRgY" 
-    width="100%" 
-    height="600" 
-    style="border:none;" 
-    allow="autoplay; fullscreen" 
-    title="Scramble Cloud Video"&gt;
-    &lt;p&gt;Your browser does not support iframes. &lt;a href="https://scramble.cloud/#vd!aM-QUq79rfuB-krrF1DqTyWXHKXnvlsoyI5uWkzOUJs!tJDhoiKKbj_KM9mHlpzX_BZcjtUndSsQ_NrkeFotRgY"&gt;Click here to view the video&lt;/a&gt;.&lt;/p&gt;
-&lt;/iframe&gt;
-</code></pre>
+
+  <p class="align-center">
+    <a href="https://scramble.cloud/#vd!aM-QUq79rfuB-krrF1DqTyWXHKXnvlsoyI5uWkzOUJs!tJDhoiKKbj_KM9mHlpzX_BZcjtUndSsQ_NrkeFotRgY">Video of the car running</a>
+  </p>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
