@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-01-14T17:38:00+00:00</updated>
+    <updated>2026-01-14T19:36:22+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -39,7 +39,7 @@
   <p>
     <strong>Ultrasonic Phased-Array Levitator:</strong> <em>An embedded system capable of levitating and manipulating matter in mid-air using real-time acoustic beamforming, powered by an STM32 microcontroller and shift registers on a custom-made PCB.&nbsp;</em>
   </p>
-<hr class="separator separator--dots" />
+<hr class="separator separator--long-line" />
 
   <p>
     For my undergraduate <strong>dissertation</strong>, I engineered an acoustic levitation system based on the principles of <strong>ultrasonic standing waves</strong>. The core objective was to generate stable pressure nodes—pockets of low pressure created by constructive and destructive interference—capable of trapping and levitating light objects in mid-air.
@@ -121,7 +121,7 @@
   <p>
     <strong>Formula Student Head of Electronics:</strong> <em>Leading the end-to-end architectural design of the 2026 competition vehicle, transitioning from prototype concepts to high-reliability production systems.&nbsp;</em><em>Key implementations include a DTA Fast ECU, RapidHarness for professional loom design, custom PCBs for power distribution, and a Raspberry Pi interface for real-time CAN bus telemetry.</em>
   </p>
-<hr class="separator separator--dots" />
+<hr class="separator separator--long-line" />
 
   <p>
     As the <strong>Head of Electronic Systems</strong> for the Swansea University Race Engineering (SURE) team for the 2026<strong> Formula Student UK </strong>competition, I am responsible for the design and implementation of the vehicle's car electronics systems.
@@ -282,7 +282,7 @@
   <p>
     <strong>Competition-Winning Micromouse:</strong> <em>A fully autonomous line-following and combat robot</em>
   </p>
-<hr class="separator separator--dots" />
+<hr class="separator separator--long-line" />
 
   <p>
     For this <strong>university module project</strong>, our group designed and constructed a fully autonomous Micromouse robot. The objective was to engineer a robot capable of navigation, <strong>obstacle avoidance</strong>, and competitive <strong>combat interaction</strong>, using a Raspberry Pi Pico, two DC brushless motor with motion feedback and a set of bumper switches and a custom PCB for obstacle avoidance.
