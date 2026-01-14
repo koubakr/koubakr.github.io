@@ -3,14 +3,128 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-01-14T19:36:22+00:00</updated>
+    <updated>2026-01-14T19:49:32+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
     <id>https://koubakr.github.io</id>
 
     <entry>
-        <title>Acoustic Levitation</title>
+        <title>How to get in contact?</title>
+        <author>
+            <name>Krystof Kouba</name>
+        </author>
+        <link href="https://koubakr.github.io/contact-2/"/>
+        <id>https://koubakr.github.io/contact-2/</id>
+
+        <updated>2026-01-14T19:41:57+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Feel free to send me an email or connect on LinkedIn. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p class="align-center">
+    Feel free to send me an email or connect on LinkedIn.
+  </p>
+<div><div class="contact-buttons-wrapper">
+  
+  <button class="black-btn" onclick="copyToClipboard(this)">
+    Email
+  </button>
+
+  <a href="https://www.linkedin.com/in/koubakr1/" target="_blank" class="black-btn">
+    LinkedIn
+  </a>
+
+</div>
+
+<style>
+  .contact-buttons-wrapper {
+    display: flex;
+    justify-content: center; /* This centers the buttons horizontally */
+    gap: 30px; /* Increased space between buttons */
+    flex-wrap: wrap; 
+    align-items: center;
+    margin: 40px 0; /* Adds some space above and below the buttons */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+
+  /* Shared style for both the Button and the Link */
+  .black-btn {
+    background-color: #000000;
+    color: #ffffff !important; /* Force text white, overrides theme blue links */
+    padding: 16px 45px; /* Increased padding for larger size */
+    border-radius: 10px; /* Slightly rounder corners */
+    text-decoration: none !important; /* Removes underline from links */
+    font-size: 22px; /* Larger text */
+    font-weight: 600;
+    border: 2px solid #000000;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: inline-block;
+    text-align: center;
+    line-height: 1.2;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+  }
+
+  /* Hover effect */
+  .black-btn:hover {
+    background-color: #333333;
+    border-color: #333333;
+    transform: translateY(-2px); /* Slight lift effect on hover */
+  }
+</style>
+
+<script>
+  function copyToClipboard(btnElement) {
+    const email = "koubkr@gmail.com";
+    
+    // Copy to clipboard
+    navigator.clipboard.writeText(email).then(() => {
+      
+      // Temporary visual feedback
+      const originalText = btnElement.innerText;
+      btnElement.innerText = "Copied!";
+      
+      // Revert back to "Email" after 2 seconds
+      setTimeout(() => {
+        btnElement.innerText = originalText;
+      }, 2000);
+    });
+  }
+</script></div>
+
+  <p>
+    &nbsp; &nbsp;
+  </p>
+
+  <p>
+    &nbsp; &nbsp;
+  </p>
+
+  <p>
+    &nbsp; &nbsp;
+  </p>
+
+  <p>
+    &nbsp;&nbsp;
+  </p>
+
+  <p>
+    &nbsp;&nbsp;
+  </p>
+
+  <p>
+    &nbsp;&nbsp;
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Acoustic Levitation - Dissertation</title>
         <author>
             <name>Krystof Kouba</name>
         </author>
@@ -289,7 +403,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://koubakr.github.io/media/posts/7/20250406_182453-2.jpg" height="1585" width="1583" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-xs.jpg 640w ,https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-sm.jpg 768w ,https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-md.jpg 1024w ,https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-lg.jpg 1366w ,https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-xl.jpg 1600w ,https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-2xl.jpg 1920w">
+      <img loading="lazy" src="https://koubakr.github.io/media/posts/7/20250406_182453-2.jpg" height="1585" width="1583" alt="Our Micromouse robot"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-xs.jpg 640w ,https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-sm.jpg 768w ,https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-md.jpg 1024w ,https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-lg.jpg 1366w ,https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-xl.jpg 1600w ,https://koubakr.github.io/media/posts/7/responsive/20250406_182453-2-2xl.jpg 1920w">
       <figcaption>Our Micromouse robot</figcaption>
     </figure>
 
