@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-01-14T17:07:14+00:00</updated>
+    <updated>2026-01-14T17:36:35+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -25,7 +25,7 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://koubakr.github.io/media/posts/11/Screenshot-2026-01-11-224705.png" alt="" />
-                    Project is still ongoing. For my undergraduate dissertation, I engineered an acoustic levitation system based on the principles of ultrasonic standing waves. The core objective was to generate stable pressure nodes—pockets of low pressure created by constructive and destructive interference—capable of trapping and levitating light&hellip;
+                    Project is still ongoing. Ultrasonic Phased-Array Levitator: An embedded system capable of levitating and manipulating matter in mid-air using real-time acoustic beamforming, powered by an STM32 microcontroller and shift registers on a custom-made PCB.&nbsp; For my undergraduate dissertation, I engineered an acoustic levitation system based&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -37,7 +37,11 @@
     </h6>
 
   <p>
-    For my undergraduate dissertation, I engineered an acoustic levitation system based on the principles of ultrasonic standing waves. The core objective was to generate stable pressure nodes—pockets of low pressure created by constructive and destructive interference—capable of trapping and levitating light objects in mid-air.
+    <strong>Ultrasonic Phased-Array Levitator:</strong> <em>An embedded system capable of levitating and manipulating matter in mid-air using real-time acoustic beamforming, powered by an STM32 microcontroller and shift registers on a custom-made PCB.&nbsp;</em>
+  </p>
+
+  <p>
+    For my undergraduate <strong>dissertation</strong>, I engineered an acoustic levitation system based on the principles of <strong>ultrasonic standing waves</strong>. The core objective was to generate stable pressure nodes—pockets of low pressure created by constructive and destructive interference—capable of trapping and levitating light objects in mid-air.
   </p>
 
   <div  class="gallery-wrapper">
@@ -52,11 +56,11 @@
   </div>
 
   <p>
-    Unlike simple static levitators, this system employs a phased-array approach. By controlling the phase delay of individual emitters, the system creates a focused "beam" of sound.
+    Unlike simple static levitators, this system employs a <strong>phased-array</strong> approach. By controlling the phase delay of individual emitters, the system creates a focused "beam" of sound, known as&nbsp;<strong>beamforming</strong>.
   </p>
 
   <ul>
-    <li>Custom transducer array using Murata MA40S4S (40kHz) speakers driven by MIC4127 MOSFET drivers.</li><li>STM32 G474 microcontroller implementing real-time phase generation.</li><li>SN74HC59N shift registers to allowing precise, multi-channel phase-shifting of the 40kHz signals to steer the acoustic focus point.</li>
+    <li>Custom transducer array using <strong>Murata MA40S4S</strong> (40kHz) speakers driven by <strong>MIC4127 </strong>MOSFET drivers.</li><li><strong>STM32 G474</strong> microcontroller implementing real-time phase generation.</li><li><strong>SN74HC59N</strong> shift registers to allow precise, multi-channel phase-shifting of the 40kHz signals to steer the acoustic focus point.</li>
   </ul>
 
   <p>
@@ -102,7 +106,7 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://koubakr.github.io/media/posts/10/IMG-20251125-WA0031-2.jpg" alt="" />
-                    Project is still ongoing. As the Head of Electronic Systems for the Swansea University Race Engineering (SURE) team for the 2026 Formula Student UK competition, I am responsible for the design and implementation of the vehicle's car electronics systems. My primary focus this season is&hellip;
+                    Project is still ongoing. Formula Student Head of Electronics: Leading the end-to-end architectural design of the 2026 competition vehicle, transitioning from prototype concepts to high-reliability production systems.&nbsp;Key implementations include a DTA Fast ECU, RapidHarness for professional loom design, custom PCBs for power distribution, and a&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -114,11 +118,16 @@
     </h6>
 
   <p>
-    As the Head of Electronic Systems for the Swansea University Race Engineering (SURE) team for the 2026 Formula Student UK competition, I am responsible for the design and implementation of the vehicle's car electronics systems.
+    <strong>Formula Student Head of Electronics:</strong> <em>Leading the end-to-end architectural design of the 2026 competition vehicle, transitioning from prototype concepts to high-reliability production systems.&nbsp;</em><em>Key implementations include a DTA Fast ECU, RapidHarness for professional loom design, custom PCBs for power distribution, and a Raspberry Pi interface for real-time CAN bus telemetry.</em>
+  </p>
+<hr class="separator separator--dots" />
+
+  <p>
+    As the <strong>Head of Electronic Systems</strong> for the Swansea University Race Engineering (SURE) team for the 2026<strong> Formula Student UK </strong>competition, I am responsible for the design and implementation of the vehicle's car electronics systems.
   </p>
 
   <p>
-    My primary focus this season is integrating a new ECU as well as design and manufacturing of a new wire harness. We are also focusing on more sensors on the car to collect more data while testing, as well as refining our drive by wire and flat shifting system. We also aim to make a custom fuse box and implement a new dashboard and steering wheel system.
+    My primary focus this season is <strong>integrating a new ECU</strong> as well as design and manufacturing of a <strong>new wire harness</strong>. We are also focusing on more sensors on the car to collect more data while testing, as well as <strong>refining our drive by wire and flat shifting</strong> system. We also aim to make a custom fuse box and implement a new dashboard and steering wheel system.
   </p>
 
     <figure class="post__image post__image--wide">
@@ -131,7 +140,7 @@
     </h6>
 
   <p>
-    We upgraded the Electronic Control Unit to a DTA Fast T8+ ECU while retaining our proven sensors. To ensure easy manufacturing and documentation, the wiring harness was designed using RapidHarness. The professional documentation provided by the software streamlined the manufacturing and installation process, resulting in a flawless engine start-up and successful track validation.
+    We upgraded the Electronic Control Unit to a <strong>DTA Fast T8+ ECU</strong> while retaining our proven sensors. To ensure easy manufacturing and documentation, the <strong>wiring harness</strong> was designed <strong>using </strong><strong>RapidHarness</strong>. The professional documentation provided by the software streamlined the manufacturing and installation process, resulting in a flawless engine start-up and <strong>successful track validation</strong>.
   </p>
 
   <p>
@@ -139,7 +148,7 @@
   </p>
 
   <p>
-    To optimize engine performance, we incorporated MegaLogViewer for post-run analysis. Using real-world data logs, we fine-tuned the ignition and fuel tables to match track conditions, known as road-dyno. This calibration eliminated engine roughness, increased power delivery, and improved fuel efficiency, resulting in a highly reliable powertrain.
+    To optimize engine performance, we incorporated <strong>MegaLogViewer for post-run analysis</strong>. Using real-world data logs, we fine-tuned the ignition and fuel tables to match track conditions, known as<strong> road-dyno</strong>. This calibration <strong>eliminated engine roughness, increased power delivery</strong>, and improved fuel efficiency, resulting in a highly reliable powertrain, all without the need for a expensive static dyno tuning run.
   </p>
 
   <div  class="gallery-wrapper">
@@ -163,7 +172,7 @@
     </h5>
 
   <p>
-    We have upgraded the vehicle's fuse box to a custom PCB-based solution. This design prioritizes high-current handling and mechanical robustness suitable for track conditions. By utilizing standard, interchangeable automotive relays and fuses, the system ensures reliable connections while remaining easy to service and maintain.
+    We have upgraded the vehicle's fuse box to a <strong>custom PCB-based solution</strong>. This design prioritizes high-current handling and mechanical robustness suitable for track conditions. By utilizing standard, interchangeable automotive relays and fuses, the system ensures reliable connections while remaining easy to service and maintain.
   </p>
 
   <div  class="gallery-wrapper">
@@ -187,7 +196,7 @@
     </h5>
 
   <p>
-    This BSPD utilizes discrete logic to ensure safe vehicle shutdown during simultaneous braking and acceleration. This year’s iteration upgrades the original schematic by employing SMD components and professional PCB manufacturing. This shift from prototype methods to industry-standard fabrication ensures maximum reliability for this critical safety component.
+    This BSPD utilizes <strong>discrete logic</strong> to ensure safe vehicle shutdown during simultaneous braking and acceleration. This year’s iteration upgrades the original schematic by employing SMD components and professional PCB manufacturing. This shift from prototype methods to industry-standard fabrication ensures maximum reliability for this critical safety component.
   </p>
 
   <p>
@@ -199,7 +208,7 @@
     </h5>
 
   <p>
-    We are refining the electronic shifting setup to prioritize reliability. The system utilizes a high-performance solenoid driven by ECU-controlled relays. Current testing focuses on integrating these shift parameters with the Drive-By-Wire system. This setup is key to achieving the seamless and instantaneous shifting required for optimal track performance, as well as safe usage under competition conditions.
+    We are refining the electronic shifting setup to prioritize reliability. The system utilizes a <strong>high-performance solenoid </strong>driven by ECU-controlled relays. Current testing focuses on integrating these shift parameters with the <strong>Drive-By-Wire system</strong>. This setup is key to achieving the seamless and instantaneous shifting required for optimal track performance, as well as safe usage under competition conditions.
   </p>
 
   <p>
@@ -211,7 +220,7 @@
     </h5>
 
   <p>
-    A easy-to-understand screen behind the steering wheel showing live data about the car, using a Raspberry Pi and CAN bus.
+    A easy-to-understand screen behind the steering wheel showing live data about the car, using a <strong>Raspberry Pi</strong> and <strong>CAN bus</strong>.
   </p>
 
   <p>
@@ -262,7 +271,7 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://koubakr.github.io/media/posts/7/20250406_182453.jpg" alt="" />
-                    For this university module project, our group designed and constructed a fully autonomous Micromouse robot. The objective was to engineer a robot capable of navigation, obstacle avoidance, and competitive combat interaction, using a Raspberry Pi Pico, two DC brushless motor with motion feedback and a&hellip;
+                    Competition-Winning Micromouse: A fully autonomous line-following and combat robot For this university module project, our group designed and constructed a fully autonomous Micromouse robot. The objective was to engineer a robot capable of navigation, obstacle avoidance, and competitive combat interaction, using a Raspberry Pi Pico,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -270,7 +279,11 @@
                     <p><img src="https://koubakr.github.io/media/posts/7/20250406_182453.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    For this university module project, our group designed and constructed a fully autonomous Micromouse robot. The objective was to engineer a robot capable of navigation, obstacle avoidance, and competitive combat interaction, using a Raspberry Pi Pico, two DC brushless motor with motion feedback and a set of bumper switches and a custom PCB for obstacle avoidance.
+    <strong>Competition-Winning Micromouse:</strong> <em>A fully autonomous line-following and combat robot</em>
+  </p>
+
+  <p>
+    For this <strong>university module project</strong>, our group designed and constructed a fully autonomous Micromouse robot. The objective was to engineer a robot capable of navigation, <strong>obstacle avoidance</strong>, and competitive <strong>combat interaction</strong>, using a Raspberry Pi Pico, two DC brushless motor with motion feedback and a set of bumper switches and a custom PCB for obstacle avoidance.
   </p>
 
     <figure class="post__image post__image--center">
@@ -283,7 +296,7 @@
   </p>
 
   <ul>
-    <li>Sensor Array: We implemented a system of 4 Infrared (IR) sensors. This array allowed for accurate wall detection to sense objects to attack or avoid, depending on the mode. Four touch bar buttons where also mounted on the front and back, to detect physical contact of the robot.</li><li>Mode Selection System: We integrated a potentiometer to switch between five operating modes: Testing, Combat, Line Following, Calibration, and Obstacle Avoidance. This design choice saved space on the PCB and allowed for fast mode switching on the fly.</li><li>Audio: Using four multi-function buttons, we could control volume and audio tracks to receive real-time feedback from the actions the robot is taking.</li><li>OLED Display: We incorporated an on-board screen to provide immediate visual feedback and mode selection.</li><li>Combat : A key feature was the "Combat Push Counter." We utilized a front touch bar to detect physical collisions with other robots. Upon collision, the system would register the hit and update the count on the LCD screen, allowing us to judge performance during combat trials.</li>
+    <li><strong>Sensor Array:</strong> We implemented a system of 4 Infrared (IR) sensors. This array allowed for accurate wall detection to sense objects to attack or avoid, depending on the mode. Four touch bar buttons where also mounted on the front and back, to detect physical contact of the robot.</li><li><strong>Mode Selection System:</strong> We integrated a potentiometer to switch between five operating modes: Testing, Combat, Line Following, Calibration, and Obstacle Avoidance. This design choice saved space on the PCB and allowed for fast mode switching on the fly.</li><li><strong>Audio:</strong> Using four multi-function buttons, we could control volume and audio tracks to receive real-time feedback from the actions the robot is taking.</li><li><strong>OLED Display:</strong> We incorporated an on-board screen to provide immediate visual feedback and mode selection.</li><li><strong>Combat:</strong> A key feature was the "Combat Push Counter." We utilized a front touch bar to detect physical collisions with other robots. Upon collision, the system would register the hit and update the count on the LCD screen, allowing us to judge performance during combat trials.</li>
   </ul>
 
   <div  class="gallery-wrapper">
@@ -328,13 +341,17 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://koubakr.github.io/media/posts/6/SURE-25-2.png" alt="" />
-                    As the Head of Electronic Systems for the Swansea University Race Engineering (SURE) team for the 2025 Formula Student UK competition, I was responsible for the design and implementation of the vehicle's new car electronics. My primary focus involved integrating control systems with safety standards&hellip;
+                    Formula Student Head of Electronics: Led the complete electronics architecture design, integrating a Haltech Elite 2500 ECU for drive-by-wire control and engineering a custom discrete-logic BSPD for critical safety compliance. As the Head of Electronic Systems for the Swansea University Race Engineering (SURE) team for&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://koubakr.github.io/media/posts/6/SURE-25-2.png" class="type:primaryImage" alt="" /></p>
                 
+  <p>
+    <strong>Formula Student Head of Electronics:</strong> <em>Led the complete electronics architecture design, integrating a Haltech Elite 2500 ECU for drive-by-wire control and engineering a custom discrete-logic BSPD for critical safety compliance.</em>
+  </p>
+
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="2">
       <figure class="gallery__item">
@@ -352,7 +369,7 @@
   </div>
 
   <p>
-    As the Head of Electronic Systems for the Swansea University Race Engineering (SURE) team for the 2025 Formula Student UK competition, I was responsible for the design and implementation of the vehicle's new car electronics. My primary focus involved integrating control systems with safety standards dictated by the rules.<br><br>ECU and Powertrain Control Central to the vehicle's management is the Haltech Elite 2500 ECU, selected for its robust documentation, reliability and reputation of the company customer support. I led the implementation of a Drive-by-Wire (DBW) system and a custom wiring harness design to ensure functionality and reliability. A key feature we focused on is the flat-shifting system for our MT-07 sequential gearbox. By utilizing an electromagnetic solenoid driven by high-current relays and controlled directly by the ECU, to achieve seamless clutchless shifting. This system automatically rev-matches via ignition cuts, significantly reducing shift times and minimizing driver error during corner exits.<br><br>I designed a comprehensive shutdown circuit compliant with FS rules to ensure driver safety during accidents or system failures. The most critical component of this system is the Brake System Plausibility Device (BSPD) , which I developed from scratch. Unlike standard programmable logic, this device requires a strictly hardware-based implementation. I designed a custom 2-layer PCB utilizing discrete transistor logic to monitor the throttle and brake sensors. The circuit instantly cuts power to the fuel and ignition relays if both pedals are pressed simultaneously (beyond 25% travel) or if an open-circuit fault is detected, incorporating a mandatory 10-second reset latch for fault clearance.
+    As the Head of Electronic Systems for the Swansea University Race Engineering (SURE) team for the 2025 <strong>Formula Student UK</strong> competition, I was responsible for the design and implementation of the vehicle's new car electronics. My primary focus involved integrating control systems with safety standards dictated by the rules.<br><br>ECU and powertrain control central to the vehicle's management is the Haltech Elite 2500 ECU, selected for its robust documentation, reliability and reputation of the company customer support. I led the implementation of a <strong>Drive-by-Wire </strong>(DBW) system and a custom wiring harness design to ensure functionality and reliability. A key feature we focused on is the <strong>flat-shifting system</strong> for our MT-07 sequential gearbox. By utilizing an electromagnetic solenoid driven by high-current relays and controlled directly by the ECU, to achieve seamless clutchless shifting. This system automatically rev-matches via ignition cuts, significantly reducing shift times and minimizing driver error during corner exits.<br><br>I designed a comprehensive shutdown circuit compliant with FS rules to ensure driver safety during accidents or system failures. The most critical component of this system is the <strong>Brake System Plausibility Device</strong> (BSPD) , which I developed from scratch. Unlike standard programmable logic, this device requires a strictly <strong>hardware-based implementation</strong>. I designed a <strong>custom 2-layer PCB </strong>utilizing discrete transistor logic to monitor the throttle and brake sensors. The circuit instantly cuts power to the fuel and ignition relays if both pedals are pressed simultaneously (beyond 25% travel) or if an open-circuit fault is detected, incorporating a mandatory 10-second reset latch for fault clearance.
   </p>
 
   <div  class="gallery-wrapper">
@@ -408,32 +425,36 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://koubakr.github.io/media/posts/3/PH_Logo-03-on-Manthis-Green2x.png" alt="" />
-                    In this renovation project, I designed and implemented a Loxone smart home system. The system architecture was developed in collaboration with a licensed electrician and a certified Loxone installer. Following the design phase, I executed the physical wiring, programming, system commissioning, and troubleshooting. The infrastructure&hellip;
+                    Loxone Smart Home System: A fully integrated automation project featuring three distribution boards, custom logic programming, and control of HVAC, lighting, and security systems. In this renovation project, I designed and implemented a Loxone smart home system. The system architecture was developed in collaboration with&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://koubakr.github.io/media/posts/3/PH_Logo-03-on-Manthis-Green2x.png" class="type:primaryImage" alt="" /></p>
                 
+  <p>
+    <strong>Loxone Smart Home System: </strong><em>A fully integrated automation project featuring three distribution boards, custom logic programming, and control of HVAC, lighting, and security systems.</em>
+  </p>
+
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://koubakr.github.io/media/posts/3/20240413_164501.jpg" height="1848" width="4000" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://koubakr.github.io/media/posts/3/responsive/20240413_164501-xs.jpg 640w ,https://koubakr.github.io/media/posts/3/responsive/20240413_164501-sm.jpg 768w ,https://koubakr.github.io/media/posts/3/responsive/20240413_164501-md.jpg 1024w ,https://koubakr.github.io/media/posts/3/responsive/20240413_164501-lg.jpg 1366w ,https://koubakr.github.io/media/posts/3/responsive/20240413_164501-xl.jpg 1600w ,https://koubakr.github.io/media/posts/3/responsive/20240413_164501-2xl.jpg 1920w">
       
     </figure>
 
   <p>
-    In this renovation project, I designed and implemented a Loxone smart home system. The system architecture was developed in collaboration with a licensed electrician and a certified Loxone installer. Following the design phase, I executed the physical wiring, programming, system commissioning, and troubleshooting.<br><br>The infrastructure is structured in three distribution boards: a main unit serving the ground floor and two sub-distribution boards for the upper and lower levels. The project also features complex automation for a dedicated wellness room.<br><br>Programmed via Loxone Config, the system integrates:<br>
+    In this renovation project, I designed and implemented a<strong> Loxone smart home system</strong>. The system architecture was developed in collaboration with a licensed electrician and a certified Loxone installer. Following the design phase, I executed the physical wiring, <strong>programming</strong>, system commissioning, and <strong>troubleshooting</strong>.<br><br>The infrastructure is structured in three distribution boards: a main unit serving the ground floor and two sub-distribution boards for the upper and lower levels. The project also features complex automation for a dedicated wellness room.<br><br>Programmed via Loxone Config, the system integrates:<br>
   </p>
 
   <ul>
-    <li>Lighting and shading (blinds)</li><li>Underfloor heating and boiler temperature control</li><li>Presence detection and intrusion alarms&nbsp;<br></li><li>Access control (Door locks, Intercom/Doorbell)</li><li>Wellness system controls (pool and sauna)</li>
+    <li><strong>Lighting and shading </strong>(blinds)</li><li>Underfloor heating and boiler<strong> temperature control</strong></li><li>Presence detection and intrusion alarms&nbsp;<br></li><li><strong>Access control </strong>(Door locks, Intercom/Doorbell)</li><li>Wellness <strong>system controls</strong> (pool and sauna)</li>
   </ul>
 
   <p>
-    The home utilizes several logic modes to automate daily routines, to integrate into a persons life seamlessly:
+    The home utilizes several <strong>logic modes</strong> to automate daily routines, to integrate into a persons life seamlessly:
   </p>
 
   <ul>
-    <li>Away Mode: Activates the alarm, closes blinds, turns off lights/motion detection, and lowers the temperature.</li><li>Sleep Mode: Modifies motion detection in bedrooms, dims lights, lowers temperature, closes blinds, and disables audio.</li><li>Lighting Scenes: Adapts internal brightness based on the sun's position and outdoor light intensity.</li><li>Overheating Protection: Automatically adjusts shading to block solar gain and prevent the rooms from overheating.</li>
+    <li><strong>Away Mode:</strong> Activates the alarm, closes blinds, turns off lights/motion detection, and lowers the temperature.</li><li><strong>Sleep Mode: </strong>Modifies motion detection in bedrooms, dims lights, lowers temperature, closes blinds, and disables audio.</li><li><strong>Lighting Scenes:</strong> Adapts internal brightness based on the sun's position and outdoor light intensity.</li><li><strong>Overheating Protection:</strong> Automatically adjusts shading to block solar gain and prevent the rooms from overheating.</li>
   </ul>
 
   <div  class="gallery-wrapper">
