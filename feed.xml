@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-01-26T18:30:13+00:00</updated>
+    <updated>2026-01-26T19:13:20+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -281,7 +281,7 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://koubakr.github.io/media/posts/7/20250406_182453.jpg" alt="" />
-                    Competition-Winning Micromouse: A fully autonomous line-following and combat robot For this university module project, our group designed and constructed a fully autonomous Micromouse robot. The objective was to engineer a robot capable of navigation, obstacle avoidance, and competitive combat interaction, using a Raspberry Pi Pico,&hellip;
+                    Competition-Winning Micromouse: A autonomous line-following and combat robot For this university module project, our group designed and constructed a fully autonomous Micromouse robot. The objective was to engineer a robot capable of navigation, obstacle avoidance, and competitive combat interaction, using a Raspberry Pi Pico, two&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -289,7 +289,7 @@
                     <p><img src="https://koubakr.github.io/media/posts/7/20250406_182453.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    <strong>Competition-Winning Micromouse:</strong> <em>A fully autonomous line-following and combat robot</em>
+    <strong>Competition-Winning Micromouse:</strong> <em>A autonomous line-following and combat robot</em>
   </p>
 <hr class="separator separator--long-line" />
 
