@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-01-25T04:29:08+00:00</updated>
+    <updated>2026-01-26T18:30:13+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -187,7 +187,17 @@
       <a href="https://koubakr.github.io/media/posts/10/gallery/Screenshot-2026-01-13-153828.png" data-size="819x483">
         <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/Screenshot-2026-01-13-153828-thumbnail.png" height="425" width="720" alt="" >
       </a>
-      <figcaption>fuse and relay box PCB schematic</figcaption>
+      <figcaption>Fuse and relay box PCB schematic</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/10/gallery/20260123_145032.jpg" data-size="2223x1848">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/20260123_145032-thumbnail.jpg" height="599" width="720" alt="" >
+      </a>
+      <figcaption>Finished and populated PCB with box prototypes</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/10/gallery/20260126_171042.jpg" data-size="2951x1777">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/20260126_171042-thumbnail.jpg" height="433" width="720" alt="" >
+      </a>
+      <figcaption>Fuse and relay box with fuses and relays</figcaption>
     </figure>
     </div>
   </div>
