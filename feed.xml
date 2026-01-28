@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-01-26T19:13:20+00:00</updated>
+    <updated>2026-01-28T19:24:54+00:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -318,15 +318,15 @@
       </a>
       <figcaption>Installation of our line detection sensors with a I2C IO expansion board</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://koubakr.github.io/media/posts/7/gallery/20250320_143823.jpg" data-size="3785x1553">
-        <img loading="lazy" src="https://koubakr.github.io/media/posts/7/gallery/20250320_143823-thumbnail.jpg" height="295" width="720" alt="" >
-      </a>
-      <figcaption>PCB design CAD rendering</figcaption>
-    </figure><figure class="gallery__item">
       <a href="https://koubakr.github.io/media/posts/7/gallery/20260114_155534.jpg" data-size="1848x2422">
         <img loading="lazy" src="https://koubakr.github.io/media/posts/7/gallery/20260114_155534-thumbnail.jpg" height="944" width="720" alt="" >
       </a>
       <figcaption>Our winners trophy for winning the main combat event</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/7/gallery/Screenshot-2026-01-28-192300.png" data-size="505x444">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/7/gallery/Screenshot-2026-01-28-192300-thumbnail.png" height="444" width="505" alt="" >
+      </a>
+      <figcaption>PCB design CAD rendering</figcaption>
     </figure>
     </div>
   </div>
