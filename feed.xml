@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-09-20T18:25:21+02:00</updated>
+    <updated>2026-09-20T18:28:07+02:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -16,7 +16,7 @@
         </author>
         <link href="https://koubakr.github.io/acoustic-levitation/"/>
         <id>https://koubakr.github.io/acoustic-levitation/</id>
-        <media:content url="https://koubakr.github.io/media/posts/11/Screenshot-2026-01-11-224705.png" medium="image" />
+        <media:content url="https://koubakr.github.io/media/posts/11/20260421_102429-2.jpg" medium="image" />
             <category term="Projects 2026"/>
             <category term="Projects 2025"/>
             <category term="Projects"/>
@@ -24,13 +24,13 @@
         <updated>2025-12-09T22:51:09+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://koubakr.github.io/media/posts/11/Screenshot-2026-01-11-224705.png" alt="" />
+                        <img src="https://koubakr.github.io/media/posts/11/20260421_102429-2.jpg" alt="" />
                     Project is in the process of being published. Ultrasonic Phased-Array Levitator: An embedded system capable of levitating and manipulating matter in mid-air using real-time acoustic beamforming, powered by an STM32 microcontroller and shift registers on a custom-made PCB.&nbsp; For my undergraduate dissertation, I focused on&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://koubakr.github.io/media/posts/11/Screenshot-2026-01-11-224705.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://koubakr.github.io/media/posts/11/20260421_102429-2.jpg" class="type:primaryImage" alt="" /></p>
                 
     <h6 id="project-is-in-the-process-of-being-published" class="align-center">
       Project is in the process of being published.
@@ -121,7 +121,7 @@
         </author>
         <link href="https://koubakr.github.io/formula-student-2026/"/>
         <id>https://koubakr.github.io/formula-student-2026/</id>
-        <media:content url="https://koubakr.github.io/media/posts/10/IMG-20251125-WA0031-2.jpg" medium="image" />
+        <media:content url="https://koubakr.github.io/media/posts/10/image3.png" medium="image" />
             <category term="Projects 2026"/>
             <category term="Projects 2025"/>
             <category term="Projects"/>
@@ -129,13 +129,13 @@
         <updated>2025-12-09T22:50:55+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://koubakr.github.io/media/posts/10/IMG-20251125-WA0031-2.jpg" alt="" />
+                        <img src="https://koubakr.github.io/media/posts/10/image3.png" alt="" />
                     Formula Student - Head of Electronics: Leading the design of the 2026 competition vehicle, transitioning from prototype concepts to high-reliability production systems.&nbsp;Key implementations include a DTA Fast ECU, RapidHarness for professional loom design, custom PCBs for power distribution, and a Raspberry Pi interface for real-time&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://koubakr.github.io/media/posts/10/IMG-20251125-WA0031-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://koubakr.github.io/media/posts/10/image3.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     <strong>Formula Student - Head of Electronics:</strong> <em>Leading the design of the 2026 competition vehicle, transitioning from prototype concepts to high-reliability production systems.&nbsp;</em><em>Key implementations include a DTA Fast ECU, RapidHarness for professional loom design, custom PCBs for power distribution, and a Raspberry Pi interface for real-time CAN bus telemetry.</em>
