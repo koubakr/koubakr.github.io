@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-01-31T20:49:16+00:00</updated>
+    <updated>2026-09-20T17:29:56+02:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -21,7 +21,7 @@
             <category term="Projects 2025"/>
             <category term="Projects"/>
 
-        <updated>2025-12-09T21:51:09+00:00</updated>
+        <updated>2025-12-09T22:51:09+01:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://koubakr.github.io/media/posts/11/Screenshot-2026-01-11-224705.png" alt="" />
@@ -103,11 +103,11 @@
             <category term="Projects 2025"/>
             <category term="Projects"/>
 
-        <updated>2025-12-09T21:50:55+00:00</updated>
+        <updated>2025-12-09T22:50:55+01:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://koubakr.github.io/media/posts/10/IMG-20251125-WA0031-2.jpg" alt="" />
-                    Project is still ongoing. Formula Student Head of Electronics: Leading the end-to-end architectural design of the 2026 competition vehicle, transitioning from prototype concepts to high-reliability production systems.&nbsp;Key implementations include a DTA Fast ECU, RapidHarness for professional loom design, custom PCBs for power distribution, and a&hellip;
+                    Project is still ongoing. Formula Student - Head of Electronics: Leading the design of the 2026 competition vehicle, transitioning from prototype concepts to high-reliability production systems.&nbsp;Key implementations include a DTA Fast ECU, RapidHarness for professional loom design, custom PCBs for power distribution, and a Raspberry&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -119,22 +119,26 @@
     </h6>
 
   <p>
-    <strong>Formula Student Head of Electronics:</strong> <em>Leading the end-to-end architectural design of the 2026 competition vehicle, transitioning from prototype concepts to high-reliability production systems.&nbsp;</em><em>Key implementations include a DTA Fast ECU, RapidHarness for professional loom design, custom PCBs for power distribution, and a Raspberry Pi interface for real-time CAN bus telemetry.</em>
+    <strong>Formula Student - Head of Electronics:</strong> <em>Leading the design of the 2026 competition vehicle, transitioning from prototype concepts to high-reliability production systems.&nbsp;</em><em>Key implementations include a DTA Fast ECU, RapidHarness for professional loom design, custom PCBs for power distribution, and a Raspberry Pi interface for real-time CAN bus telemetry.</em>
   </p>
 <hr class="separator separator--long-line" />
 
   <p>
-    As the <strong>Head of Electronic Systems</strong> for the Swansea University Race Engineering (<a href="https://www.motorsport.swan.ac.uk/">SURE</a>) team for the 2026<strong> Formula Student UK </strong>competition, I am responsible for the design and implementation of the vehicle's car electronics systems.
+    As the <strong>Head of Electronic Systems</strong> for the Swansea University Race Engineering (<a href="https://www.motorsport.swan.ac.uk/">SURE</a>) team for the 2026<strong> Formula Student UK </strong>competition, I was responsible for the design and implementation of the vehicle's car electronics systems.
   </p>
 
   <p>
-    My primary focus this season is <strong>integrating a new ECU</strong> as well as design and manufacturing of a <strong>new wire harness</strong>. We are also focusing on more sensors on the car to collect more data while testing, as well as <strong>refining our drive by wire and flat shifting</strong> system. We also aim to make a custom fuse box and implement a new dashboard and steering wheel system.
+    My primary focus this season was&nbsp;<strong>integrating a new ECU</strong> as well as designing and manufacturing of a <strong>new wire harness</strong>. We where also focusing on adding more sensors to the car to collect more data while testing, as well as <strong>refining our drive by wire and flat shifting</strong> system. We made a <strong>custom fuse and relay box</strong> and implemented a new dashboard and steering wheel system.
   </p>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://koubakr.github.io/media/posts/10/IMG-20251125-WA0031.jpg" height="937" width="1734" alt="FS25B car at our first testing this year"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://koubakr.github.io/media/posts/10/responsive/IMG-20251125-WA0031-xs.jpg 640w ,https://koubakr.github.io/media/posts/10/responsive/IMG-20251125-WA0031-sm.jpg 768w ,https://koubakr.github.io/media/posts/10/responsive/IMG-20251125-WA0031-md.jpg 1024w ,https://koubakr.github.io/media/posts/10/responsive/IMG-20251125-WA0031-lg.jpg 1366w ,https://koubakr.github.io/media/posts/10/responsive/IMG-20251125-WA0031-xl.jpg 1600w ,https://koubakr.github.io/media/posts/10/responsive/IMG-20251125-WA0031-2xl.jpg 1920w">
+      <img loading="lazy" src="https://koubakr.github.io/media/posts/10/55400357017_aee328b062_o.jpg" height="4253" width="7576" alt="Team photo during the FSUK competition"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://koubakr.github.io/media/posts/10/responsive/55400357017_aee328b062_o-xs.jpg 640w ,https://koubakr.github.io/media/posts/10/responsive/55400357017_aee328b062_o-sm.jpg 768w ,https://koubakr.github.io/media/posts/10/responsive/55400357017_aee328b062_o-md.jpg 1024w ,https://koubakr.github.io/media/posts/10/responsive/55400357017_aee328b062_o-lg.jpg 1366w ,https://koubakr.github.io/media/posts/10/responsive/55400357017_aee328b062_o-xl.jpg 1600w ,https://koubakr.github.io/media/posts/10/responsive/55400357017_aee328b062_o-2xl.jpg 1920w">
       
     </figure>
+
+  <p>
+    
+  </p>
 
     <h6 id="ecu-and-wire-harness">
       ECU and wire harness
@@ -149,21 +153,26 @@
   </p>
 
   <p>
-    To optimize engine performance, we incorporated <strong>MegaLogViewer for post-run analysis</strong>. Using real-world data logs, we fine-tuned the ignition and fuel tables to match track conditions, known as<strong> road-dyno</strong>. This calibration <strong>eliminated engine roughness, increased power delivery</strong>, and improved fuel efficiency, resulting in a highly reliable powertrain, all without the need for a expensive static dyno tuning run.
+    To optimize engine performance, we incorporated <strong>MegaLogViewer for post-run analysis</strong>. Using data logs, we fine-tuned the ignition and fuel tables to match track conditions, known as<strong> road-dyno</strong>. This calibration <strong>eliminated engine roughness, increased power delivery</strong>, and improved fuel efficiency, resulting in a highly reliable powertrain, all without the need for a expensive static dyno tuning run.
   </p>
 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://koubakr.github.io/media/posts/10/gallery/20251104_192331.jpg" data-size="1848x2920">
-        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/20251104_192331-thumbnail.jpg" height="1138" width="720" alt="" >
-      </a>
-      <figcaption>installation of the rough V1 harness</figcaption>
-    </figure><figure class="gallery__item">
       <a href="https://koubakr.github.io/media/posts/10/gallery/EL_FS25_B_V0.2-01.png" data-size="6623x2955">
         <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/EL_FS25_B_V0.2-01-thumbnail.png" height="321" width="720" alt="" >
       </a>
-      <figcaption>Version 1 harness design</figcaption>
+      <figcaption>Harness design using RapidHarness software</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/10/gallery/20260218_164054.jpg" data-size="4000x1848">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/20260218_164054-thumbnail.jpg" height="333" width="720" alt="" >
+      </a>
+      <figcaption>Harness manufacturing</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/10/gallery/20260219_174853.jpg" data-size="4000x1848">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/20260219_174853-thumbnail.jpg" height="333" width="720" alt="" >
+      </a>
+      <figcaption>Harness laid out on the car frame</figcaption>
     </figure>
     </div>
   </div>
@@ -189,15 +198,10 @@
       </a>
       <figcaption>Fuse and relay box PCB schematic</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://koubakr.github.io/media/posts/10/gallery/20260123_145032.jpg" data-size="2223x1848">
-        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/20260123_145032-thumbnail.jpg" height="599" width="720" alt="" >
+      <a href="https://koubakr.github.io/media/posts/10/gallery/20260520_171019.jpg" data-size="2600x1289">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/20260520_171019-thumbnail.jpg" height="357" width="720" alt="" >
       </a>
-      <figcaption>Finished and populated PCB with box prototypes</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://koubakr.github.io/media/posts/10/gallery/20260126_171042.jpg" data-size="2951x1777">
-        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/20260126_171042-thumbnail.jpg" height="433" width="720" alt="" >
-      </a>
-      <figcaption>Fuse and relay box with fuses and relays</figcaption>
+      <figcaption>Assembled Fuse and relay box</figcaption>
     </figure>
     </div>
   </div>
@@ -210,33 +214,51 @@
     This BSPD utilizes <strong>discrete logic</strong> to ensure safe vehicle shutdown during simultaneous braking and acceleration. This year’s iteration upgrades the original schematic by employing SMD components and professional PCB manufacturing. This shift from prototype methods to industry-standard fabrication ensures maximum reliability for this critical safety component.
   </p>
 
-  <p>
-    The design is still ongoing.
-  </p>
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/10/gallery/20260507_120444.jpg" data-size="1006x648">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/20260507_120444-thumbnail.jpg" height="464" width="720" alt="" >
+      </a>
+      <figcaption>BSPD PCB</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/10/gallery/20260602_121236.jpg" data-size="1944x1459">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/20260602_121236-thumbnail.jpg" height="540" width="720" alt="" >
+      </a>
+      <figcaption>BSPD inside its box</figcaption>
+    </figure>
+    </div>
+  </div>
 
     <h5 id="electronic-shifting">
       Electronic shifting
     </h5>
 
   <p>
-    We are refining the electronic shifting setup to prioritize reliability. The system utilizes a <strong>high-performance solenoid </strong>driven by ECU-controlled relays. Current testing focuses on integrating these shift parameters with the <strong>Drive-By-Wire system</strong>. This setup is key to achieving the seamless and instantaneous shifting required for optimal track performance, as well as safe usage under competition conditions.
+    We refined the electronic shifting setup to prioritize reliability. The system utilizes a <strong>high-performance solenoid </strong>driven by ECU-controlled relays. Current testing focuses on integrating these shift parameters with the <strong>Drive-By-Wire system</strong>. This setup is key to achieving the seamless and instantaneous shifting required for optimal track performance, as well as safe usage under competition conditions.
   </p>
+<div><a href="https://youtu.be/cCGoBXvd1AU" target="_blank" style="background-color: #FF0000; color: white; padding: 12px 24px; text-decoration: none; border-radius: 12px; font-weight: bold; font-family: sans-serif; display: inline-block;">
+  ▶ Watch our shifting system working on YouTube
+</a></div>
 
-  <p>
-    The design is still ongoing.
-  </p>
-
-    <h5 id="dashboard">
-      Dashboard
+    <h5 id="dashboard-and-steering-wheel">
+      Dashboard and Steering wheel
     </h5>
 
   <p>
-    A easy-to-understand screen behind the steering wheel showing live data about the car, using a <strong>Raspberry Pi</strong> and <strong>CAN bus</strong>.
+    A easy-to-understand screen behind the steering wheel showing live data about the car, using a <strong>Raspberry Pi</strong> and <strong>CAN bus</strong>. As well as a CAN-enabled steering wheel using an <strong>ESP32</strong> with a CAN bus transceiver and magnetic paddles.
   </p>
 
-  <p>
-    The design is still ongoing.
-  </p>
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/10/gallery/IMG_2520.JPG" data-size="1242x1725">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/IMG_2520-thumbnail.JPG" height="1000" width="720" alt="" >
+      </a>
+      <figcaption>The dashboard and steering wheel finished</figcaption>
+    </figure>
+    </div>
+  </div>
 
     <h5 id="gallery">
       Gallery
@@ -254,6 +276,21 @@
         <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/IMG-20251125-WA0100-thumbnail.jpg" height="540" width="720" alt="" >
       </a>
       <figcaption>First test session group photo</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/10/gallery/FS26-2.JPG" data-size="4000x3702">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/FS26-2-thumbnail.JPG" height="666" width="720" alt="" >
+      </a>
+      <figcaption>During the technical inspection</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/10/gallery/20260722_182144.jpg" data-size="1848x2390">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/20260722_182144-thumbnail.jpg" height="931" width="720" alt="" >
+      </a>
+      <figcaption>Me in the car</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://koubakr.github.io/media/posts/10/gallery/image3.png" data-size="1122x522">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/image3-thumbnail.png" height="335" width="720" alt="" >
+      </a>
+      <figcaption>The car during the endurance event</figcaption>
     </figure>
     </div>
   </div>
@@ -264,9 +301,6 @@
   <p>
     
   </p>
-<div><a href="https://youtu.be/cCGoBXvd1AU" target="_blank" style="background-color: #FF0000; color: white; padding: 12px 24px; text-decoration: none; border-radius: 12px; font-weight: bold; font-family: sans-serif; display: inline-block;">
-  ▶ Watch our shifting system working on YouTube
-</a></div>
 
   <p>
     
@@ -285,7 +319,7 @@
             <category term="Projects 2024"/>
             <category term="Projects"/>
 
-        <updated>2025-12-09T21:18:43+00:00</updated>
+        <updated>2025-12-09T22:18:43+01:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://koubakr.github.io/media/posts/7/20250406_182453.jpg" alt="" />
@@ -355,7 +389,7 @@
             <category term="Projects 2024"/>
             <category term="Projects"/>
 
-        <updated>2025-12-09T01:02:06+00:00</updated>
+        <updated>2025-12-09T02:02:06+01:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://koubakr.github.io/media/posts/3/PH_Logo-03-on-Manthis-Green2x.png" alt="" />
