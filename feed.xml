@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-09-20T18:16:49+02:00</updated>
+    <updated>2026-09-20T18:19:07+02:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -155,9 +155,9 @@
       
     </figure>
 
-    <h6 id="ecu-and-wire-harness">
+    <h4 id="ecu-and-wire-harness">
       ECU and wire harness
-    </h6>
+    </h4>
 
   <p>
     We upgraded the Electronic Control Unit to a <strong>DTA Fast T8+ ECU</strong> while retaining our proven sensors. To ensure easy manufacturing and documentation, the <strong>wiring harness</strong> was designed <strong>using </strong><strong>RapidHarness</strong>. The professional documentation provided by the software streamlined the manufacturing and installation process, resulting in a flawless engine start-up and <strong>successful track validation</strong>.
@@ -192,9 +192,9 @@
     </div>
   </div>
 
-    <h5 id="fuse-and-relay-box">
+    <h4 id="fuse-and-relay-box">
       Fuse and relay box
-    </h5>
+    </h4>
 
   <p>
     We have upgraded the vehicle's fuse box to a <strong>custom PCB-based solution</strong>. This design prioritizes high-current handling and mechanical robustness suitable for track conditions. By utilizing standard, interchangeable automotive relays and fuses, the system ensures reliable connections while remaining easy to service and maintain.
@@ -221,9 +221,9 @@
     </div>
   </div>
 
-    <h5 id="bspd-device">
+    <h4 id="bspd-device">
       BSPD device
-    </h5>
+    </h4>
 
   <p>
     This BSPD utilizes <strong>discrete logic</strong> to ensure safe vehicle shutdown during simultaneous braking and acceleration. This year’s iteration upgrades the original schematic by employing SMD components and professional PCB manufacturing. This shift from prototype methods to industry-standard fabrication ensures maximum reliability for this critical safety component.
@@ -245,32 +245,29 @@
     </div>
   </div>
 
-    <h5 id="electronic-shifting">
+    <h4 id="electronic-shifting">
       Electronic shifting
-    </h5>
+    </h4>
 
   <p>
     We refined the electronic shifting setup to prioritize reliability. The system utilizes a <strong>high-performance solenoid </strong>driven by ECU-controlled relays. Current testing focuses on integrating these shift parameters with the <strong>Drive-By-Wire system</strong>. This setup is key to achieving the seamless and instantaneous shifting required for optimal track performance, as well as safe usage under competition conditions.
   </p>
-<div><a href="https://youtu.be/cCGoBXvd1AU" target="_blank" style="background-color: #FF0000; color: white; padding: 12px 24px; text-decoration: none; border-radius: 12px; font-weight: bold; font-family: sans-serif; display: inline-block;">
-  ▶ Watch our shifting system working on YouTube
-</a></div>
 
-    <h5 id="dashboard-and-steering-wheel">
+    <h4 id="dashboard-and-steering-wheel">
       Dashboard and Steering wheel
-    </h5>
+    </h4>
 
   <p>
     A easy-to-understand screen behind the steering wheel showing live data about the car, using a <strong>Raspberry Pi</strong> and <strong>CAN bus</strong>. As well as a CAN-enabled steering wheel using an <strong>ESP32</strong> with a CAN bus transceiver and magnetic paddles.
   </p>
 
   <div  class="gallery-wrapper">
-    <div class="gallery" data-columns="1">
+    <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://koubakr.github.io/media/posts/10/gallery/IMG_2520.JPG" data-size="1242x1725">
-        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/IMG_2520-thumbnail.JPG" height="1000" width="720" alt="" >
+      <a href="https://koubakr.github.io/media/posts/10/gallery/IMG_2520-2.JPG" data-size="1242x1725">
+        <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/IMG_2520-2-thumbnail.JPG" height="1000" width="720" alt="" >
       </a>
-      <figcaption>The dashboard and steering wheel finished</figcaption>
+      
     </figure>
     </div>
   </div>
@@ -311,6 +308,9 @@
   </div>
 <div><a href="https://youtu.be/EFOIRbaJ2KQ?si=gf5PZdkGGrCMme30" target="_blank" style="background-color: #FF0000; color: white; padding: 12px 24px; text-decoration: none; border-radius: 12px; font-weight: bold; font-family: sans-serif; display: inline-block;">
   ▶ Watch our car running on YouTube
+</a></div>
+<div><a href="https://youtu.be/cCGoBXvd1AU" target="_blank" style="background-color: #FF0000; color: white; padding: 12px 24px; text-decoration: none; border-radius: 12px; font-weight: bold; font-family: sans-serif; display: inline-block;">
+  ▶ Watch our shifting system working on YouTube
 </a></div>
 
   <p>
