@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-09-20T17:29:56+02:00</updated>
+    <updated>2026-09-20T17:39:45+02:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -107,17 +107,13 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://koubakr.github.io/media/posts/10/IMG-20251125-WA0031-2.jpg" alt="" />
-                    Project is still ongoing. Formula Student - Head of Electronics: Leading the design of the 2026 competition vehicle, transitioning from prototype concepts to high-reliability production systems.&nbsp;Key implementations include a DTA Fast ECU, RapidHarness for professional loom design, custom PCBs for power distribution, and a Raspberry&hellip;
+                    Formula Student - Head of Electronics: Leading the design of the 2026 competition vehicle, transitioning from prototype concepts to high-reliability production systems.&nbsp;Key implementations include a DTA Fast ECU, RapidHarness for professional loom design, custom PCBs for power distribution, and a Raspberry Pi interface for real-time&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://koubakr.github.io/media/posts/10/IMG-20251125-WA0031-2.jpg" class="type:primaryImage" alt="" /></p>
                 
-    <h6 id="project-is-still-ongoing" class="align-center">
-      Project is still ongoing.
-    </h6>
-
   <p>
     <strong>Formula Student - Head of Electronics:</strong> <em>Leading the design of the 2026 competition vehicle, transitioning from prototype concepts to high-reliability production systems.&nbsp;</em><em>Key implementations include a DTA Fast ECU, RapidHarness for professional loom design, custom PCBs for power distribution, and a Raspberry Pi interface for real-time CAN bus telemetry.</em>
   </p>
@@ -135,10 +131,6 @@
       <img loading="lazy" src="https://koubakr.github.io/media/posts/10/55400357017_aee328b062_o.jpg" height="4253" width="7576" alt="Team photo during the FSUK competition"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://koubakr.github.io/media/posts/10/responsive/55400357017_aee328b062_o-xs.jpg 640w ,https://koubakr.github.io/media/posts/10/responsive/55400357017_aee328b062_o-sm.jpg 768w ,https://koubakr.github.io/media/posts/10/responsive/55400357017_aee328b062_o-md.jpg 1024w ,https://koubakr.github.io/media/posts/10/responsive/55400357017_aee328b062_o-lg.jpg 1366w ,https://koubakr.github.io/media/posts/10/responsive/55400357017_aee328b062_o-xl.jpg 1600w ,https://koubakr.github.io/media/posts/10/responsive/55400357017_aee328b062_o-2xl.jpg 1920w">
       
     </figure>
-
-  <p>
-    
-  </p>
 
     <h6 id="ecu-and-wire-harness">
       ECU and wire harness
@@ -215,7 +207,7 @@
   </p>
 
   <div  class="gallery-wrapper">
-    <div class="gallery" data-columns="3">
+    <div class="gallery" data-columns="2">
       <figure class="gallery__item">
       <a href="https://koubakr.github.io/media/posts/10/gallery/20260507_120444.jpg" data-size="1006x648">
         <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/20260507_120444-thumbnail.jpg" height="464" width="720" alt="" >
@@ -250,7 +242,7 @@
   </p>
 
   <div  class="gallery-wrapper">
-    <div class="gallery" data-columns="3">
+    <div class="gallery" data-columns="1">
       <figure class="gallery__item">
       <a href="https://koubakr.github.io/media/posts/10/gallery/IMG_2520.JPG" data-size="1242x1725">
         <img loading="lazy" src="https://koubakr.github.io/media/posts/10/gallery/IMG_2520-thumbnail.JPG" height="1000" width="720" alt="" >
