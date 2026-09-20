@@ -3,7 +3,7 @@
     <title>Krystof Kouba</title>
     <link href="https://koubakr.github.io/feed.xml" rel="self" />
     <link href="https://koubakr.github.io" />
-    <updated>2026-09-20T18:24:05+02:00</updated>
+    <updated>2026-09-20T18:25:21+02:00</updated>
     <author>
         <name>Krystof Kouba</name>
     </author>
@@ -104,13 +104,13 @@
   <p>
     For physical levitation, I built an <strong>opposed setup </strong>with two synchronized 3x3 arrays separated by 40 mm. The system stably trapped a 2 mm polystyrene sphere and steered it along pre-programmed 3D paths. While the compact array size limits the workspace and dynamic translation speed, it validates that microcontroller SPI/DMA serialization provides an effective, low-cost platform for active acoustic manipulation, with head-room to scale up to larger arrays and finer phase steps (theoretically up to pi/57 at 73 Mbit/s).
   </p>
-<div><a href="https://www.youtube.com/shorts/2Qq_0j16MqQ" target="_blank" style="background-color: #FF0000; color: white; padding: 12px 24px; text-decoration: none; border-radius: 12px; font-weight: bold; font-family: sans-serif; display: inline-block;">
-  ▶ Watch the acoustic levitation in action on YouTube
-</a></div>
 
   <p>
     
   </p>
+<div><a href="https://www.youtube.com/shorts/2Qq_0j16MqQ" target="_blank" style="background-color: #FF0000; color: white; padding: 12px 24px; text-decoration: none; border-radius: 12px; font-weight: bold; font-family: sans-serif; display: inline-block;">
+  ▶ Watch the acoustic levitation in action on YouTube
+</a></div>
             ]]>
         </content>
     </entry>
@@ -312,14 +312,6 @@
 <div><a href="https://youtu.be/cCGoBXvd1AU" target="_blank" style="background-color: #FF0000; color: white; padding: 12px 24px; text-decoration: none; border-radius: 12px; font-weight: bold; font-family: sans-serif; display: inline-block;">
   ▶ Watch our shifting system working on YouTube
 </a></div>
-
-  <p>
-    
-  </p>
-
-  <p>
-    
-  </p>
             ]]>
         </content>
     </entry>
